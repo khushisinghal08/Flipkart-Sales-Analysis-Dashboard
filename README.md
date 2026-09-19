@@ -27,11 +27,11 @@ The dashboard was created to answer questions such as:
 
 The dashboard currently shows:
 
-- **Total Revenue:** ₹17,47,718.25
+- **Total Revenue:** ₹ 8,16,477.54
 - **Total Orders:** 1,000
 - **Total Customers:** 1,000
 - **Cancellation Rate:** 32.00%
-- **Fast Delivery:** 28.97%
+- **Fast Delivery:** 19.70%
 
 ---
 
@@ -49,11 +49,11 @@ The category and region comparison shows noticeable differences in sales perform
 
 The payment-method analysis shows differences in cancellation rates:
 
-- **UPI:** 23.44%
-- **Debit Card:** 20.94%
-- **Credit Card:** 20.63%
-- **Net Banking:** 18.75%
-- **COD:** 16.25%
+- **UPI:** 24.44%
+- **Debit Card:** 17.78%
+- **Credit Card:** 20.89%
+- **Net Banking:** 18.81%
+- **COD:** 18.07%
 
 UPI has the highest cancellation rate in the current analysis, while COD has the lowest.
 
@@ -63,10 +63,10 @@ This suggests that payment-method behavior should be monitored when investigatin
 
 The regional sales chart shows:
 
-- **South:** ₹4,66,925.26
-- **North:** ₹4,50,391.09
-- **East:** ₹4,36,837.07
-- **West:** ₹3,93,564.83
+- **South:** ₹2,31,059.72
+- **North:** ₹2,18,183.23
+- **East:** ₹1,90,428.87
+- **West:** ₹1,76,805.72
 
 The **West region has the lowest sales** among the four regions, while South records the highest sales.
 
@@ -76,29 +76,29 @@ The delivery trend compares Fast and Slow deliveries across the available months
 
 The dashboard shows that **Slow deliveries are consistently higher than Fast deliveries**.
 
-Overall, only **28.97% of completed orders are classified as Fast deliveries**, indicating that delivery speed is an area that needs attention.
+Overall, only **18.46% of completed orders are classified as Fast deliveries**, indicating that delivery speed is an area that needs attention.
 
 ### 5. Top 5 Products by Sales
 
 The dashboard identifies the five products contributing the highest sales:
 
-- Product_35
-- Product_28
-- Product_46
+- Product_18
+- Product_32
+- Product_8
 - Product_15
-- Product_13
+- Product_17
 
-**Product_35** has the highest sales among the top five products shown in the dashboard.
+**Product_18** has the highest sales among the top five products shown in the dashboard.
 
 ### 6. Monthly Order Trend
 
 The monthly order trend shows:
 
-- January: ~255 orders
-- February: ~218 orders
-- March: ~260 orders
-- April: ~258 orders
-- May: ~10 orders
+- January: ~254 orders
+- February: ~217 orders
+- March: ~261 orders
+- April: ~257 orders
+- May: ~11 orders
 
 There is a sharp decline in May compared with the previous months.
 
@@ -112,15 +112,15 @@ Based on the dashboard analysis:
 
 1. The overall **cancellation rate is 32%**, meaning cancellations are a significant part of the order data.
 
-2. **UPI has the highest cancellation rate (23.44%)** among the payment methods shown.
+2. **UPI has the highest cancellation rate (24.44%)** among the payment methods shown.
 
 3. **South generates the highest regional sales**, while West has the lowest sales.
 
-4. **Fast deliveries account for only 28.97% of completed orders**, while slow deliveries make up the larger share.
+4. **Fast deliveries account for only 19.70% of completed orders**, while slow deliveries make up the larger share.
 
 5. **Home and Electronics** show strong category-level sales across the regions.
 
-6. **Product_35** is the highest-selling product among the displayed top five products.
+6. **Product_18** is the highest-selling product among the displayed top five products.
 
 7. The monthly trend shows a **major drop in orders in May**, which should be investigated before making business decisions.
 
@@ -169,7 +169,7 @@ The business could investigate:
 
 ### 5. Learn From High-Performing Products
 
-Products such as Product_35 and Product_28 are among the top sellers.
+Products such as Product_18 and Product_32 are among the top sellers.
 
 Their category, pricing, availability, and customer demand can be analyzed to understand what is driving their performance.
 
